@@ -28574,7 +28574,7 @@ image_gallery_saver
 
 MIT License
 
-Copyright (c) [2023] [tangwen]
+Copyright (c) [2023] [zaihui]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -34185,7 +34185,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 win32
 
-Copyright 2019, the Dart project authors. All rights reserved.
+Copyright 2019, Dart | Windows. All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
 met:
